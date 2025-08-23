@@ -279,7 +279,7 @@ curl -sSL https://demo.5dlabs.com | bash
 
 | Core Platform | AI Engine | Orchestration | Integration |
 |:---:|:---:|:---:|:---:|
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Multi-AI](https://img.shields.io/badge/Multi_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Multi-AI](https://img.shields.io/badge/Multi_AI-FF6B6B?style=for-the-badge&logo=brain&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Fast & Reliable** | **State-of-the-art** | **Infinitely Scalable** | **Native PRs** |
 
 **Also featuring:** Argo Workflows • GitHub Apps • MCP Protocol • Helm Charts • Prometheus Metrics
