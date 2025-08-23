@@ -151,26 +151,26 @@ Watch the magic happen when they work together:
 
 ### **The Problem** 😔
 
-**Infrastructure teams are trapped by vendor lock-in:**
+**Infrastructure teams are trapped by platform pricing lock-in:**
 
-- 🔒 **Cursor/GitHub** force single-model dependency
-- 💸 **Unexpected price hikes** with no alternatives
+- 💸 **Cursor/GitHub** force you to pay their markup on all models
+- 📈 **Platform price hikes** affect your entire AI spend
 - 🚫 **No CLI flexibility** across development environments  
-- 📊 **Zero cost optimization** or model comparison
-- 🏢 **Enterprise budgets** held hostage by AI vendors
+- 📊 **Zero cost optimization** - can't shop providers directly
+- 🏢 **Enterprise budgets** at mercy of platform pricing changes
 
 </td>
 <td width="50%">
 
 ### **Our Solution** 🎉
 
-**Universal, cost-optimized AI development platform:**
+**Direct provider access with enterprise-grade orchestration:**
 
 - 🔄 **Any CLI, any model** - complete flexibility
-- 💰 **Cost optimization** across all AI providers
-- ⚖️ **Real-time pricing** comparison & switching
+- 💰 **Direct provider pricing** - no platform markup
+- ⚖️ **Real-time cost optimization** & provider switching
 - 🛠️ **Infrastructure-grade** reliability & scaling
-- 🚀 **Break free** from vendor lock-in forever
+- 🚀 **Pay providers directly** - bypass platform fees
 
 </td>
 </tr>
@@ -199,17 +199,17 @@ Watch the magic happen when they work together:
 
 | Feature | **Cursor/GitHub** | **5D Labs** |
 |---------|:-----------------:|:-----------:|
-| **Model Choice** | 🔒 Locked to specific models | ✅ Any model, any provider |
+| **Pricing Model** | 💸 Platform markup on all models | 💰 Direct provider pricing |
 | **CLI Support** | 🚫 Platform-specific only | ✅ Universal CLI integration |
-| **Cost Control** | 💸 Fixed pricing, no optimization | 💰 Real-time cost optimization |
+| **Cost Control** | 📈 Subject to platform price changes | 📊 Real-time provider optimization |
 | **Enterprise Focus** | 👤 Individual developers | 🏢 Infrastructure teams |
-| **Vendor Freedom** | 🔗 Lock-in by design | 🚀 Complete freedom |
-| **Pricing Transparency** | ❓ Hidden/variable costs | 📊 Full pricing visibility |
+| **Provider Freedom** | 🔗 Must pay through platform | 🚀 Direct provider relationships |
+| **Price Transparency** | ❓ Platform markup hidden | 📊 Full cost visibility & control |
 
 ### **🎯 Perfect For:**
 **DevOps Engineers** • **Platform Teams** • **Engineering Managers** • **CTOs** • **Infrastructure Architects**
 
-*Stop paying premium prices for vendor lock-in. Get the flexibility your infrastructure demands.*
+*Stop paying platform markup. Get direct provider access with enterprise-grade orchestration.*
 
 </div>
 
