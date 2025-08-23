@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/5dlabs-logo.svg" alt="5D Labs Logo" width="400px">
 
-# 🚀 **5D Labs**
-
 ## **AI Agent Infrastructure**
 
 <br/>
