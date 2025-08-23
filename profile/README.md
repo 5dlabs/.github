@@ -74,7 +74,7 @@
 | Project | Description | Stats | Stack |
 |---------|-------------|-------|-------|
 | [**CTO**](https://github.com/5dlabs/cto)<br/>*Cognitive Task Orchestrator* | The platform where AI agents<br/>ship production code | ![Stars](https://img.shields.io/github/stars/5dlabs/cto?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/cto?style=flat-square&logo=github) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| [**Toolman**](https://github.com/5dlabs/toolman)<br/>*Tool Orchestration* | Unified AI tool management<br/>and orchestration framework | ![Stars](https://img.shields.io/github/stars/5dlabs/toolman?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/toolman?style=flat-square&logo=github) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-4B0082?style=flat-square) |
+| [**Toolman**](https://github.com/5dlabs/toolman)<br/>*Tool Orchestration* | Unified AI tool management<br/>and orchestration framework | ![Stars](https://img.shields.io/github/stars/5dlabs/toolman?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/toolman?style=flat-square&logo=github) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![MCP](https://img.shields.io/badge/MCP-4B0082?style=flat-square) |
 
 </div>
 
@@ -224,7 +224,7 @@ Help us build the future of AI-powered development!
 | Area | Skills | How to Help |
 |------|--------|-------------|
 | **Core Platform** | Rust, Kubernetes | Build agent orchestration features |
-| **AI Integration** | Python, APIs | Improve AI model integrations |
+| **AI Integration** | Rust, APIs | Improve AI model integrations |
 | **Documentation** | Technical Writing | Create guides and examples |
 | **Testing** | QA, Automation | Expand test coverage |
 
