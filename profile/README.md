@@ -166,10 +166,29 @@ quality, testing & security
 </table>
 
 **💡 Project Flexibility:**
-- **Backend Only:** Rex builds APIs, services, databases
-- **Frontend Only:** Blaze creates UIs, dashboards, apps  
-- **Full-Stack:** Rex & Blaze work together seamlessly
-- **Quality Always:** Cleo reviews, Tess tests, Cipher secures
+
+<table>
+<tr>
+<td align="center" width="50%">
+**🦀 Backend Projects**<br/>
+Rex builds APIs, services, databases
+</td>
+<td align="center" width="50%">
+**✨ Frontend Projects**<br/>
+Blaze creates UIs, dashboards, apps
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+**🚀 Full-Stack Projects**<br/>
+Rex & Blaze work together seamlessly
+</td>
+<td align="center" width="50%">
+**🛡️ Quality Always**<br/>
+Cleo reviews, Tess tests, Cipher secures
+</td>
+</tr>
+</table>
 
 ### **🎯 Result: Production-Ready Code**
 *Fast • Elegant • Tested • Documented • Secure*
