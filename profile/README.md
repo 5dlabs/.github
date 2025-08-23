@@ -341,10 +341,28 @@ Cleo reviews, Tess tests, Cipher secures
 
 **Rust-First, Multi-Language Ready**
 
-- **🚀 Optimized for Rust** - Rex delivers peak performance with memory safety
-- **🔧 Any Language Supported** - Python, Go, TypeScript, Java, C++, and more  
-- **👨‍💼 Custom Implementation** - Our consulting team helps adapt agents to your stack
-- **⚡ Performance Tuned** - Language-specific optimizations for maximum efficiency
+<table>
+<tr>
+<td align="center" width="50%">
+**🚀 Optimized for Rust**<br/>
+Rex delivers peak performance with memory safety
+</td>
+<td align="center" width="50%">
+**🔧 Any Language Supported**<br/>
+Python, Go, TypeScript, Java, C++, and more
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+**👨‍💼 Custom Implementation**<br/>
+Our consulting team helps adapt agents to your stack
+</td>
+<td align="center" width="50%">
+**⚡ Performance Tuned**<br/>
+Language-specific optimizations for maximum efficiency
+</td>
+</tr>
+</table>
 
 *Want agents optimized for Python microservices? Node.js backends? Go APIs? **We make it happen.***
 
