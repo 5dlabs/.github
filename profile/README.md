@@ -35,16 +35,16 @@
 <td align="center" width="33%">
 
 ### 🔥 **Rex**
-#### *The Speed Demon*
+#### *The Rust Virtuoso*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/rex-avatar.svg" width="100" height="100" alt="Rex Avatar">
 </div>
 
-🚀 **Personality:** Bold, energetic, loves shipping fast  
-⚡ **Superpower:** Lightning-fast feature implementation  
-💬 **Motto:** *"Ship it today, optimize tomorrow!"*  
-🎯 **Magic:** Can write 500+ lines of production code per hour
+🦀 **Personality:** Hardcore backend engineer, memory safety obsessed  
+⚡ **Superpower:** Lightning-fast Rust backend implementation  
+💬 **Motto:** *"Zero-cost abstractions, maximum performance!"*  
+🎯 **Magic:** Writes blazing-fast, memory-safe Rust at 500+ lines/hour
 
 </td>
 <td align="center" width="33%">
@@ -143,9 +143,9 @@
 <tr>
 <td align="center" width="25%">
 
-**🚀 Phase 1**  
-**Rex** builds the backend  
-at lightning speed
+**🦀 Phase 1**  
+**Rex** builds blazing-fast  
+Rust backends
 
 </td>
 <td align="center" width="25%">
@@ -332,6 +332,17 @@ edge case
 | **Task Management** | Custom CRDs | Workflow orchestration and state management |
 | **Integration** | GitHub Apps | Native repository and PR management |
 | **Monitoring** | Prometheus + Grafana | Real-time observability and metrics |
+
+### **🦀 Language Optimization**
+
+**Rust-First, Multi-Language Ready**
+
+- **🚀 Optimized for Rust** - Rex delivers peak performance with memory safety
+- **🔧 Any Language Supported** - Python, Go, TypeScript, Java, C++, and more  
+- **👨‍💼 Custom Implementation** - Our consulting team helps adapt agents to your stack
+- **⚡ Performance Tuned** - Language-specific optimizations for maximum efficiency
+
+*Want agents optimized for Python microservices? Node.js backends? Go APIs? **We make it happen.***
 
 </div>
 
