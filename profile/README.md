@@ -32,8 +32,8 @@
 <tr>
 <td align="center" width="33%">
 
-### 🔥 **Rex**
-#### *The Rust Virtuoso*
+### **Rex**
+#### *The Backend Powerhouse*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/rex-avatar.png" width="150" height="150" alt="Rex Avatar">
@@ -47,8 +47,8 @@
 </td>
 <td align="center" width="33%">
 
-### 🔥 **Blaze**
-#### *The Frontend Virtuoso*
+### **Blaze**
+#### *The Interface Maestro*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/blaze-avatar.png" width="150" height="150" alt="Blaze Avatar">
@@ -62,7 +62,7 @@
 </td>
 <td align="center" width="33%">
 
-### 👁️ **Cleo**
+### **Cleo**
 #### *The Quality Guardian*
 
 <div align="center">
@@ -79,7 +79,7 @@
 <tr>
 <td align="center" width="33%">
 
-### 🧪 **Tess**
+### **Tess**
 #### *The Testing Genius*
 
 <div align="center">
@@ -94,7 +94,7 @@
 </td>
 <td align="center" width="33%">
 
-### 📚 **Morgan**
+### **Morgan**
 #### *The Knowledge Architect*
 
 <div align="center">
@@ -109,7 +109,7 @@
 </td>
 <td align="center" width="33%">
 
-### 🔐 **Cipher**
+### **Cipher**
 #### *The Security Sentinel*
 
 <div align="center">
