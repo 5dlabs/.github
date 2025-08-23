@@ -315,26 +315,13 @@ edge case
 
 <div align="center">
 
-```mermaid
-graph LR
-    subgraph "Traditional Development"
-        A[Requirements<br/>2 days] --> B[Code<br/>3 days]
-        B --> C[Test<br/>1 day]
-        C --> D[Docs<br/>1 day]
-        D --> E[Review<br/>1 day]
-        E --> F[Deploy<br/>4 hours]
-    end
-    
-    subgraph "With 5D Labs"
-        G[Define Task<br/>30 min] --> H[AI Agents Work<br/>2-4 hours]
-        H --> I[Review PR<br/>30 min]
-        I --> J[Merge & Deploy<br/>instant]
-    end
-    
-    style H fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
-    style G fill:#4ecdc4,stroke:#333,stroke-width:2px
-    style I fill:#4ecdc4,stroke:#333,stroke-width:2px
-```
+| **📅 Traditional Development** | **⚡ With 5D Labs** |
+|:---:|:---:|
+| **~7-8 days total** | **~3-5 hours total** |
+| Requirements → Code → Test → Docs → Review → Deploy | Define → AI Agents Work → Review → Deploy |
+| 🐌 **Slow, manual process** | 🚀 **AI-accelerated workflow** |
+
+**Result:** ***95% faster delivery*** **•** ***Same quality, less effort*** **•** ***More time for innovation***
 
 ### **🎯 Platform Architecture**
 
