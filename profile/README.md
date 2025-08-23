@@ -197,6 +197,48 @@ edge case
 
 ---
 
+## **🔮 Coming Soon: Build Your Own AI Agents**
+
+<div align="center">
+
+### **🛠️ Custom Agent Creation Platform**
+
+**Create specialized agents tailored to your exact workflow**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### **🎨 Your Vision, Your Agent**
+
+- **Custom Personalities** - Define unique agent behavior  
+- **Specialized Skills** - Build for your specific use cases
+- **Team Integration** - Works alongside Rex, Blaze & the crew
+- **GitHub App Integration** - Native repository access
+
+</td>
+<td align="center" width="50%">
+
+### **⚡ MCP-Powered Creation**
+
+- **Simple MCP Calls** - Create agents programmatically
+- **No Complex Setup** - From idea to working agent quickly  
+- **Enterprise Ready** - Built for infrastructure teams
+- **Unlimited Possibilities** - DevOps, Security, QA, Documentation
+
+</td>
+</tr>
+</table>
+
+### **💡 Imagine:**
+**A custom "Database Migration Agent" that understands your schema • A "Security Compliance Agent" for your specific requirements • A "Performance Testing Agent" tuned to your benchmarks**
+
+**🚀 This is the future of AI-powered development infrastructure**
+
+</div>
+
+---
+
 ## **🚀 What We're Building**
 
 <table>
