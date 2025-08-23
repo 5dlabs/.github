@@ -141,50 +141,35 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 **📚 Phase 1**  
-**Morgan** documents requirements  
-& architecture
+**Morgan** documents  
+requirements & architecture
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**🦀 Phase 2**  
-**Rex** builds blazing-fast  
-Rust backends
-
-</td>
-<td align="center" width="25%">
-
-**✨ Phase 3**  
-**Blaze** crafts beautiful  
-frontend experiences
+**⚡ Phase 2**  
+**Rex & Blaze** build in parallel  
+*(backend, frontend, or both)*
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**✨ Phase 4**  
-**Cleo** reviews & refines  
-to perfection
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" colspan="2">
-
-**🧪 Phase 5**  
-**Tess** tests every edge case
-
-</td>
-<td align="center" width="50%" colspan="2">
-
-**🔐 Phase 6**  
-**Cipher** secures the entire stack
+**🛡️ Phase 3**  
+**Cleo, Tess & Cipher** ensure  
+quality, testing & security
 
 </td>
 </tr>
 </table>
+
+**💡 Project Flexibility:**
+- **Backend Only:** Rex builds APIs, services, databases
+- **Frontend Only:** Blaze creates UIs, dashboards, apps  
+- **Full-Stack:** Rex & Blaze work together seamlessly
+- **Quality Always:** Cleo reviews, Tess tests, Cipher secures
 
 ### **🎯 Result: Production-Ready Code**
 *Fast • Elegant • Tested • Documented • Secure*
