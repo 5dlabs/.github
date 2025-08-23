@@ -129,18 +129,69 @@
 
 ---
 
-### 🌟 **The Magic: Team Collaboration**
-
-Watch the magic happen when they work together:
-
-1. **Rex** builds the feature fast → **Blaze** ensures it scales
-2. **Cleo** reviews and refines → **Tess** tests every scenario  
-3. **Morgan** documents beautifully → **Cipher** secures everything
-4. **Result:** Production-ready code that's fast, elegant, tested, documented, and secure!
-
-*It's like having a senior development team that never sleeps, never argues, and always delivers! 🎭*
+</div>
 
 </div>
+
+### 🌟 **The Magic: Team Collaboration**
+
+<div align="center">
+
+**Watch the magic happen when they work together:**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🚀 Phase 1**  
+**Rex** builds features  
+at lightning speed
+
+</td>
+<td align="center" width="25%">
+
+**🏗️ Phase 2**  
+**Blaze** ensures everything  
+scales beautifully
+
+</td>
+<td align="center" width="25%">
+
+**✨ Phase 3**  
+**Cleo** reviews & refines  
+to perfection
+
+</td>
+<td align="center" width="25%">
+
+**🧪 Phase 4**  
+**Tess** tests every  
+edge case
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" colspan="2">
+
+**📚 Phase 5**  
+**Morgan** documents everything beautifully
+
+</td>
+<td align="center" width="50%" colspan="2">
+
+**🔐 Phase 6**  
+**Cipher** secures the entire stack
+
+</td>
+</tr>
+</table>
+
+### **🎯 Result: Production-Ready Code**
+*Fast • Elegant • Tested • Documented • Secure*
+
+---
+
+**It's like having a senior development team that never sleeps, never argues, and always delivers!** 🎭
 
 </div>
 
