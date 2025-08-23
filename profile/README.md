@@ -287,7 +287,7 @@ edge case
 
 ---
 
-## **🏢 Built for Infrastructure Teams, Not Just Coders**
+## **🏢 Built for Infrastructure Teams That Enable Organizations**
 
 <div align="center">
 
@@ -298,14 +298,14 @@ edge case
 | **Pricing Control** | 📈 Subject to platform price changes | 💰 Direct provider relationships |
 | **CLI Support** | 🚫 Platform-specific only | ✅ Universal CLI integration |
 | **Cost Optimization** | 🔒 Locked into platform rates | 📊 Real-time provider comparison |
-| **Enterprise Focus** | 👤 Individual developers | 🏢 Infrastructure teams |
+| **Target User** | 👤 Individual developers | 🏢 Infrastructure teams enabling organizations |
 | **Provider Flexibility** | 🔗 Must use through platform | 🚀 Direct provider access |
 | **Rate Limit Risk** | ❓ Subject to platform limits | 📊 Provider-specific limits only |
 
 ### **🎯 Perfect For:**
 **DevOps Engineers** • **Platform Teams** • **Engineering Managers** • **CTOs** • **Infrastructure Architects**
 
-*Break free from platform dependency. Get direct provider access with enterprise-grade orchestration.*
+*Infrastructure teams that empower senior engineers and product teams with flexible, cost-optimized AI development tools.*
 
 </div>
 
