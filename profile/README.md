@@ -50,16 +50,16 @@
 <td align="center" width="33%">
 
 ### 🔥 **Blaze**
-#### *The Architect*
+#### *The Frontend Virtuoso*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/blaze-avatar.svg" width="100" height="100" alt="Blaze Avatar">
 </div>
 
-🏗️ **Personality:** Strategic, methodical, thinks big picture  
-🎯 **Superpower:** System design & scalable architecture  
-💬 **Motto:** *"Build it right, build it to last!"*  
-🧠 **Wisdom:** Thinks 3 steps ahead on every architectural decision
+🎨 **Personality:** Creative, detail-oriented, UX obsessed  
+✨ **Superpower:** Beautiful, responsive user interfaces  
+💬 **Motto:** *"Great UX makes complex simple!"*  
+🎯 **Magic:** Turns wireframes into pixel-perfect experiences
 
 </td>
 <td align="center" width="33%">
@@ -144,15 +144,15 @@
 <td align="center" width="25%">
 
 **🚀 Phase 1**  
-**Rex** builds features  
+**Rex** builds the backend  
 at lightning speed
 
 </td>
 <td align="center" width="25%">
 
-**🏗️ Phase 2**  
-**Blaze** ensures everything  
-scales beautifully
+**✨ Phase 2**  
+**Blaze** crafts beautiful  
+frontend experiences
 
 </td>
 <td align="center" width="25%">
