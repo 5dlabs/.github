@@ -348,6 +348,7 @@ edge case
 
 ---
 
+<!-- 
 ## **🎬 See It In Action**
 
 <div align="center">
@@ -364,6 +365,9 @@ curl -sSL https://demo.5dlabs.com | bash
 ```
 
 </div>
+
+---
+-->
 
 ---
 
