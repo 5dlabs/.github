@@ -143,38 +143,38 @@
 <tr>
 <td align="center" width="25%">
 
-**🦀 Phase 1**  
+**📚 Phase 1**  
+**Morgan** documents requirements  
+& architecture
+
+</td>
+<td align="center" width="25%">
+
+**🦀 Phase 2**  
 **Rex** builds blazing-fast  
 Rust backends
 
 </td>
 <td align="center" width="25%">
 
-**✨ Phase 2**  
+**✨ Phase 3**  
 **Blaze** crafts beautiful  
 frontend experiences
 
 </td>
 <td align="center" width="25%">
 
-**✨ Phase 3**  
+**✨ Phase 4**  
 **Cleo** reviews & refines  
 to perfection
-
-</td>
-<td align="center" width="25%">
-
-**🧪 Phase 4**  
-**Tess** tests every  
-edge case
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" colspan="2">
 
-**📚 Phase 5**  
-**Morgan** documents everything beautifully
+**🧪 Phase 5**  
+**Tess** tests every edge case
 
 </td>
 <td align="center" width="50%" colspan="2">
