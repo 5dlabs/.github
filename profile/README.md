@@ -332,7 +332,7 @@ Cleo reviews, Tess tests, Cipher secures
 | Component | Technology | Purpose |
 |-----------|------------|----------|
 | **Core Platform** | Rust + Kubernetes | High-performance agent orchestration |
-| **AI Engine** | Multi-Provider | OpenAI, Anthropic, Google, Local Models |
+| **AI Engine** | Multi-Provider | OpenAI, Anthropic, Google, Mistral, xAI, Local Models & more |
 | **Task Management** | Custom CRDs | Workflow orchestration and state management |
 | **Integration** | GitHub Apps | Native repository and PR management |
 | **Monitoring** | Prometheus + Grafana | Real-time observability and metrics |
