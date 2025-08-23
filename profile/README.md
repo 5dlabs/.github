@@ -37,8 +37,8 @@
 #### *The Dynamic Implementation Duo*
 
 <div align="center">
-<img src="profile/assets/rex-avatar.svg" width="80" height="80" alt="Rex Avatar" style="margin-right: 10px;">
-<img src="profile/assets/blaze-avatar.svg" width="80" height="80" alt="Blaze Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/rex-avatar.svg" width="80" height="80" alt="Rex Avatar" style="margin-right: 10px;">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/blaze-avatar.svg" width="80" height="80" alt="Blaze Avatar">
 </div>
 
 **Rex** - *The Speed Demon*  
@@ -58,7 +58,7 @@
 #### *The Perfectionist Quality Guardian*
 
 <div align="center">
-<img src="profile/assets/cleo-avatar.svg" width="100" height="100" alt="Cleo Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cleo-avatar.svg" width="100" height="100" alt="Cleo Avatar">
 </div>
 
 🎨 **Personality:** Meticulous, wise, never accepts "good enough"  
@@ -76,7 +76,7 @@
 #### *The Testing Genius*
 
 <div align="center">
-<img src="profile/assets/tess-avatar.svg" width="100" height="100" alt="Tess Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/tess-avatar.svg" width="100" height="100" alt="Tess Avatar">
 </div>
 
 🕵️ **Personality:** Curious, thorough, loves breaking things safely  
@@ -92,7 +92,7 @@
 #### *The Knowledge Architect*
 
 <div align="center">
-<img src="profile/assets/morgan-avatar.svg" width="100" height="100" alt="Morgan Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/morgan-avatar.svg" width="100" height="100" alt="Morgan Avatar">
 </div>
 
 ✍️ **Personality:** Articulate, organized, loves clarity  
@@ -110,7 +110,7 @@
 #### *The Security Sentinel*
 
 <div align="center">
-<img src="profile/assets/cipher-avatar.svg" width="120" height="120" alt="Cipher Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cipher-avatar.svg" width="120" height="120" alt="Cipher Avatar">
 </div>
 
 🛡️ **Personality:** Vigilant, protective, thinks like a white-hat hacker  
