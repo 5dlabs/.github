@@ -36,6 +36,11 @@
 ### 🔥 **Rex & Blaze** 
 #### *The Dynamic Implementation Duo*
 
+<div align="center">
+<img src="profile/assets/rex-avatar.svg" width="80" height="80" alt="Rex Avatar" style="margin-right: 10px;">
+<img src="profile/assets/blaze-avatar.svg" width="80" height="80" alt="Blaze Avatar">
+</div>
+
 **Rex** - *The Speed Demon*  
 🚀 **Personality:** Bold, energetic, loves shipping fast  
 ⚡ **Superpower:** Lightning-fast feature implementation  
@@ -52,6 +57,10 @@
 ### 👁️ **Cleo**
 #### *The Perfectionist Quality Guardian*
 
+<div align="center">
+<img src="profile/assets/cleo-avatar.svg" width="100" height="100" alt="Cleo Avatar">
+</div>
+
 🎨 **Personality:** Meticulous, wise, never accepts "good enough"  
 🔍 **Superpower:** Spots improvement opportunities instantly  
 📏 **Special Skill:** Code review & elegant refactoring  
@@ -66,6 +75,10 @@
 ### 🧪 **Tess**
 #### *The Testing Genius*
 
+<div align="center">
+<img src="profile/assets/tess-avatar.svg" width="100" height="100" alt="Tess Avatar">
+</div>
+
 🕵️ **Personality:** Curious, thorough, loves breaking things safely  
 🎪 **Superpower:** Finds edge cases others miss  
 🛡️ **Special Skill:** Bulletproof test coverage  
@@ -77,6 +90,10 @@
 
 ### 📚 **Morgan**
 #### *The Knowledge Architect*
+
+<div align="center">
+<img src="profile/assets/morgan-avatar.svg" width="100" height="100" alt="Morgan Avatar">
+</div>
 
 ✍️ **Personality:** Articulate, organized, loves clarity  
 📖 **Superpower:** Explains complex things simply  
@@ -91,6 +108,10 @@
 
 ### 🔐 **Cipher**
 #### *The Security Sentinel*
+
+<div align="center">
+<img src="profile/assets/cipher-avatar.svg" width="120" height="120" alt="Cipher Avatar">
+</div>
 
 🛡️ **Personality:** Vigilant, protective, thinks like a white-hat hacker  
 🔒 **Superpower:** Spots vulnerabilities before they happen  
