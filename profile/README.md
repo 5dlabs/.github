@@ -4,7 +4,7 @@
 
 # 🚀 **5D Labs**
 
-## **We Build Infrastructure That Orchestrates AI Agents**
+## **AI Agent Infrastructure**
 
 <br/>
 
