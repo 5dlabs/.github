@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/5dlabs-logo-dark.png" alt="5D Labs Logo" width="400px">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/5dlabs-logo-transparent-fixed.png" alt="5D Labs Logo" width="400px">
 
 # 🚀 **5D Labs**
 
