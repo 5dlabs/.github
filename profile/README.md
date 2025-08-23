@@ -32,6 +32,21 @@
 <tr>
 <td align="center" width="33%">
 
+### **Morgan**
+#### *The Knowledge Architect*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/morgan-avatar.png" width="150" height="150" alt="Morgan Avatar">
+</div>
+
+✍️ **Personality:** Articulate, organized, loves clarity  
+📖 **Superpower:** Explains complex things simply  
+💬 **Motto:** *"Knowledge shared is knowledge squared!"*  
+⭐ **Magic:** Makes technical docs feel like stories
+
+</td>
+<td align="center" width="33%">
+
 ### **Rex**
 #### *The Backend Powerhouse*
 
@@ -60,6 +75,8 @@
 🎯 **Magic:** Turns wireframes into pixel-perfect experiences
 
 </td>
+</tr>
+<tr>
 <td align="center" width="33%">
 
 ### **Cleo**
@@ -75,8 +92,6 @@
 🎉 **Fun Fact:** Has never met code she couldn't improve
 
 </td>
-</tr>
-<tr>
 <td align="center" width="33%">
 
 ### **Tess**
@@ -90,21 +105,6 @@
 🎪 **Superpower:** Finds edge cases others miss  
 💬 **Motto:** *"If it can break, I'll find it first!"*  
 🏆 **Legend:** Once discovered 47 edge cases in one function
-
-</td>
-<td align="center" width="33%">
-
-### **Morgan**
-#### *The Knowledge Architect*
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/morgan-avatar.png" width="150" height="150" alt="Morgan Avatar">
-</div>
-
-✍️ **Personality:** Articulate, organized, loves clarity  
-📖 **Superpower:** Explains complex things simply  
-💬 **Motto:** *"Knowledge shared is knowledge squared!"*  
-⭐ **Magic:** Makes technical docs feel like stories
 
 </td>
 <td align="center" width="33%">
