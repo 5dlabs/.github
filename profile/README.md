@@ -273,6 +273,6 @@ Help us build the future of AI-powered development!
 
 <br/>
 
-**© 2025 5D Labs** • MIT License • Made with Rust 🦀
+**© 2025 5D Labs** • AGPL-3.0 License • Made with Rust 🦀
 
 </div>
