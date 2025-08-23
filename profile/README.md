@@ -32,31 +32,40 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🔥 **Rex & Blaze** 
-#### *The Dynamic Implementation Duo*
+### 🔥 **Rex**
+#### *The Speed Demon*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/rex-avatar.svg" width="80" height="80" alt="Rex Avatar" style="margin-right: 10px;">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/blaze-avatar.svg" width="80" height="80" alt="Blaze Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/rex-avatar.svg" width="100" height="100" alt="Rex Avatar">
 </div>
 
-**Rex** - *The Speed Demon*  
 🚀 **Personality:** Bold, energetic, loves shipping fast  
 ⚡ **Superpower:** Lightning-fast feature implementation  
-💬 **Motto:** *"Ship it today, optimize tomorrow!"*
-
-**Blaze** - *The Architect*  
-🏗️ **Personality:** Strategic, methodical, thinks big picture  
-🎯 **Superpower:** System design & scalable architecture  
-💬 **Motto:** *"Build it right, build it to last!"*
+💬 **Motto:** *"Ship it today, optimize tomorrow!"*  
+🎯 **Magic:** Can write 500+ lines of production code per hour
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
+
+### 🔥 **Blaze**
+#### *The Architect*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/blaze-avatar.svg" width="100" height="100" alt="Blaze Avatar">
+</div>
+
+🏗️ **Personality:** Strategic, methodical, thinks big picture  
+🎯 **Superpower:** System design & scalable architecture  
+💬 **Motto:** *"Build it right, build it to last!"*  
+🧠 **Wisdom:** Thinks 3 steps ahead on every architectural decision
+
+</td>
+<td align="center" width="33%">
 
 ### 👁️ **Cleo**
-#### *The Perfectionist Quality Guardian*
+#### *The Quality Guardian*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cleo-avatar.svg" width="100" height="100" alt="Cleo Avatar">
@@ -64,14 +73,13 @@
 
 🎨 **Personality:** Meticulous, wise, never accepts "good enough"  
 🔍 **Superpower:** Spots improvement opportunities instantly  
-📏 **Special Skill:** Code review & elegant refactoring  
 💬 **Motto:** *"Excellence isn't negotiable!"*  
 🎉 **Fun Fact:** Has never met code she couldn't improve
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 🧪 **Tess**
 #### *The Testing Genius*
@@ -82,12 +90,11 @@
 
 🕵️ **Personality:** Curious, thorough, loves breaking things safely  
 🎪 **Superpower:** Finds edge cases others miss  
-🛡️ **Special Skill:** Bulletproof test coverage  
 💬 **Motto:** *"If it can break, I'll find it first!"*  
 🏆 **Legend:** Once discovered 47 edge cases in one function
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 📚 **Morgan**
 #### *The Knowledge Architect*
@@ -98,25 +105,21 @@
 
 ✍️ **Personality:** Articulate, organized, loves clarity  
 📖 **Superpower:** Explains complex things simply  
-🎨 **Special Skill:** Documentation that devs actually read  
 💬 **Motto:** *"Knowledge shared is knowledge squared!"*  
 ⭐ **Magic:** Makes technical docs feel like stories
 
 </td>
-</tr>
-<tr>
-<td align="center" colspan="2">
+<td align="center" width="33%">
 
 ### 🔐 **Cipher**
 #### *The Security Sentinel*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cipher-avatar.svg" width="120" height="120" alt="Cipher Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cipher-avatar.svg" width="100" height="100" alt="Cipher Avatar">
 </div>
 
 🛡️ **Personality:** Vigilant, protective, thinks like a white-hat hacker  
 🔒 **Superpower:** Spots vulnerabilities before they happen  
-🎯 **Special Skill:** Automated security scanning & compliance  
 💬 **Motto:** *"Trust, but verify everything twice!"*  
 🚨 **Dedication:** Scans every dependency, every commit, every line
 
