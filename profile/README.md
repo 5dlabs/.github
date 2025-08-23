@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## **👥 Meet Your AI Development Dream Team**
+## **Meet Your AI Development Dream Team**
 
 *Five specialized agents with distinct personalities working together 24/7*
 
