@@ -502,6 +502,10 @@ Help us build the future of AI-powered development!
 
 ---
 
+<!-- 
+FOOTER SECTION - Commented out until website is ready
+Uncomment when 5dlabs.com, blog, docs, and API are live
+
 <div align="center">
 
 ### **🌍 Open Source Community**
@@ -529,3 +533,4 @@ Help us build the future of AI-powered development!
 **© 2025 5D Labs** • AGPL-3.0 License • Made with Rust 🦀
 
 </div>
+-->
