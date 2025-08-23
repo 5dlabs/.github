@@ -15,7 +15,8 @@
 
 <br/>
 
-### **🌟 Transforming Software Development with Autonomous AI Agents 🌟**
+### **💎 Enterprise AI Development Platform - CLI & Model Agnostic 💎**
+*Break free from vendor lock-in. Optimize costs. Scale infrastructure.*
 
 </div>
 
@@ -150,22 +151,26 @@ Watch the magic happen when they work together:
 
 ### **The Problem** 😔
 
-- 📅 **7-10 days** to ship a feature
-- 💸 **$200k+** average developer cost
-- 🐛 **40% of time** fixing bugs
-- 📚 **60% of code** undocumented
-- 🔄 **80% repetitive** boilerplate work
+**Infrastructure teams are trapped by vendor lock-in:**
+
+- 🔒 **Cursor/GitHub** force single-model dependency
+- 💸 **Unexpected price hikes** with no alternatives
+- 🚫 **No CLI flexibility** across development environments  
+- 📊 **Zero cost optimization** or model comparison
+- 🏢 **Enterprise budgets** held hostage by AI vendors
 
 </td>
 <td width="50%">
 
 ### **Our Solution** 🎉
 
-- ⚡ **3-5 hours** to ship a feature
-- 💰 **85% cost** reduction
-- ✅ **99.2% test** coverage
-- 📖 **100% documented** code
-- 🤖 **AI handles** the repetitive work
+**Universal, cost-optimized AI development platform:**
+
+- 🔄 **Any CLI, any model** - complete flexibility
+- 💰 **Cost optimization** across all AI providers
+- ⚖️ **Real-time pricing** comparison & switching
+- 🛠️ **Infrastructure-grade** reliability & scaling
+- 🚀 **Break free** from vendor lock-in forever
 
 </td>
 </tr>
@@ -181,6 +186,30 @@ Watch the magic happen when they work together:
 |---------|-------------|-------|-------|
 | [**CTO**](https://github.com/5dlabs/cto)<br/>*Cognitive Task Orchestrator* | The platform where AI agents<br/>ship production code | ![Stars](https://img.shields.io/github/stars/5dlabs/cto?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/cto?style=flat-square&logo=github) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 | [**Toolman**](https://github.com/5dlabs/toolman)<br/>*Tool Orchestration* | Unified AI tool management<br/>and orchestration framework | ![Stars](https://img.shields.io/github/stars/5dlabs/toolman?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/toolman?style=flat-square&logo=github) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![MCP](https://img.shields.io/badge/MCP-4B0082?style=flat-square) |
+
+</div>
+
+---
+
+## **🏢 Built for Infrastructure Teams, Not Just Coders**
+
+<div align="center">
+
+### **Why 5D Labs vs. The Competition?**
+
+| Feature | **Cursor/GitHub** | **5D Labs** |
+|---------|:-----------------:|:-----------:|
+| **Model Choice** | 🔒 Locked to specific models | ✅ Any model, any provider |
+| **CLI Support** | 🚫 Platform-specific only | ✅ Universal CLI integration |
+| **Cost Control** | 💸 Fixed pricing, no optimization | 💰 Real-time cost optimization |
+| **Enterprise Focus** | 👤 Individual developers | 🏢 Infrastructure teams |
+| **Vendor Freedom** | 🔗 Lock-in by design | 🚀 Complete freedom |
+| **Pricing Transparency** | ❓ Hidden/variable costs | 📊 Full pricing visibility |
+
+### **🎯 Perfect For:**
+**DevOps Engineers** • **Platform Teams** • **Engineering Managers** • **CTOs** • **Infrastructure Architects**
+
+*Stop paying premium prices for vendor lock-in. Get the flexibility your infrastructure demands.*
 
 </div>
 
