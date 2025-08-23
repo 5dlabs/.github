@@ -205,13 +205,13 @@ edge case
 
 ### **The Problem** 😔
 
-**Infrastructure teams are trapped by platform pricing lock-in:**
+**Infrastructure teams face platform dependency issues:**
 
-- 💸 **Cursor/GitHub** force you to pay their markup on all models
-- 📈 **Platform price hikes** affect your entire AI spend
+- 📈 **Unexpected price increases** and new rate limits from platforms
+- 🔒 **Locked into platform pricing** - no direct provider relationships
 - 🚫 **No CLI flexibility** across development environments  
-- 📊 **Zero cost optimization** - can't shop providers directly
-- 🏢 **Enterprise budgets** at mercy of platform pricing changes
+- 📊 **Zero cost optimization** - can't compare or switch providers
+- 🏢 **Enterprise budgets** subject to platform policy changes
 
 </td>
 <td width="50%">
@@ -221,10 +221,10 @@ edge case
 **Direct provider access with enterprise-grade orchestration:**
 
 - 🔄 **Any CLI, any model** - complete flexibility
-- 💰 **Direct provider pricing** - no platform markup
+- 💰 **Direct provider relationships** - avoid platform dependency
 - ⚖️ **Real-time cost optimization** & provider switching
 - 🛠️ **Infrastructure-grade** reliability & scaling
-- 🚀 **Pay providers directly** - bypass platform fees
+- 🚀 **Price stability** - not subject to platform policy changes
 
 </td>
 </tr>
@@ -253,17 +253,17 @@ edge case
 
 | Feature | **Cursor/GitHub** | **5D Labs** |
 |---------|:-----------------:|:-----------:|
-| **Pricing Model** | 💸 Platform markup on all models | 💰 Direct provider pricing |
+| **Pricing Control** | 📈 Subject to platform price changes | 💰 Direct provider relationships |
 | **CLI Support** | 🚫 Platform-specific only | ✅ Universal CLI integration |
-| **Cost Control** | 📈 Subject to platform price changes | 📊 Real-time provider optimization |
+| **Cost Optimization** | 🔒 Locked into platform rates | 📊 Real-time provider comparison |
 | **Enterprise Focus** | 👤 Individual developers | 🏢 Infrastructure teams |
-| **Provider Freedom** | 🔗 Must pay through platform | 🚀 Direct provider relationships |
-| **Price Transparency** | ❓ Platform markup hidden | 📊 Full cost visibility & control |
+| **Provider Flexibility** | 🔗 Must use through platform | 🚀 Direct provider access |
+| **Rate Limit Risk** | ❓ Subject to platform limits | 📊 Provider-specific limits only |
 
 ### **🎯 Perfect For:**
 **DevOps Engineers** • **Platform Teams** • **Engineering Managers** • **CTOs** • **Infrastructure Architects**
 
-*Stop paying platform markup. Get direct provider access with enterprise-grade orchestration.*
+*Break free from platform dependency. Get direct provider access with enterprise-grade orchestration.*
 
 </div>
 
