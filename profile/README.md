@@ -106,28 +106,15 @@ graph LR
     style I fill:#4ecdc4,stroke:#333,stroke-width:2px
 ```
 
-### **🎯 Real Results from Real Teams**
+### **🎯 Platform Architecture**
 
-| Metric | Impact | Proof |
-|--------|--------|-------|
-| **Development Speed** | **85% faster** | Ship in hours, not weeks |
-| **Code Quality** | **99.2% coverage** | Every line tested |
-| **Cost Savings** | **$2M+ saved** | Reduce headcount needs |
-| **Bug Reduction** | **75% fewer bugs** | AI catches issues early |
-| **Documentation** | **100% coverage** | Never outdated |
-
-</div>
-
----
-
-## **🏆 Success Stories**
-
-<div align="center">
-
-| | |
-|:---|:---|
-| <img src="https://via.placeholder.com/60" align="left" style="margin-right: 15px"> **"CTO reduced our feature development time by 85%"**<br/>Our team now focuses on architecture and innovation while AI handles implementation. We're shipping faster than ever with better quality.<br/>*— Sarah Chen, CTO at TechStartup* | <img src="https://via.placeholder.com/60" align="left" style="margin-right: 15px"> **"6 months of roadmap shipped in 6 weeks"**<br/>The quality exceeded our manual development standards. Our investors couldn't believe the velocity we achieved.<br/>*— Marcus Rodriguez, Engineering Director* |
-| <img src="https://via.placeholder.com/60" align="left" style="margin-right: 15px"> **"Like having 10 senior developers on demand"**<br/>The multi-agent approach mimics how our best teams work, but at 10x the speed with perfect consistency.<br/>*— Alex Kim, VP Engineering* | <img src="https://via.placeholder.com/60" align="left" style="margin-right: 15px"> **"ROI in the first week"**<br/>We saved more in the first week than the entire setup cost. It's a no-brainer for any engineering team.<br/>*— Jordan Lee, Startup Founder* |
+| Component | Technology | Purpose |
+|-----------|------------|----------|
+| **Core Platform** | Rust + Kubernetes | High-performance agent orchestration |
+| **AI Engine** | Claude API | Advanced reasoning and code generation |
+| **Task Management** | Custom CRDs | Workflow orchestration and state management |
+| **Integration** | GitHub Apps | Native repository and PR management |
+| **Monitoring** | Prometheus + Grafana | Real-time observability and metrics |
 
 </div>
 
@@ -227,22 +214,22 @@ curl -sSL https://demo.5dlabs.com | bash
 
 ---
 
-## **🤝 We're Hiring!**
+## **🤝 Contribute**
 
 <div align="center">
 
-Join us in building the future of AI-powered development!
+Help us build the future of AI-powered development!
 
-### **Open Positions**
+### **Ways to Contribute**
 
-| Role | Location | Type |
-|------|----------|------|
-| **Senior Rust Engineer** | Remote | Full-time |
-| **AI/ML Engineer** | Remote | Full-time |
-| **Developer Advocate** | Remote | Full-time |
-| **Technical Writer** | Remote | Contract |
+| Area | Skills | How to Help |
+|------|--------|-------------|
+| **Core Platform** | Rust, Kubernetes | Build agent orchestration features |
+| **AI Integration** | Python, APIs | Improve AI model integrations |
+| **Documentation** | Technical Writing | Create guides and examples |
+| **Testing** | QA, Automation | Expand test coverage |
 
-[**View All Positions →**](https://5dlabs.com/careers)
+[**Start Contributing →**](https://github.com/5dlabs/cto/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -252,10 +239,10 @@ Join us in building the future of AI-powered development!
 
 <div align="center">
 
-### **Enterprise Features**
+### **Enterprise Roadmap**
 
-✅ **On-Premise Deployment** • ✅ **SOC2 Compliant** • ✅ **Custom Agents** • ✅ **SLA Support**
-✅ **Air-Gapped Operation** • ✅ **SAML/SSO** • ✅ **Audit Logs** • ✅ **24/7 Support**
+🚧 **On-Premise Deployment** • 🚧 **SOC2 Compliance** • 🚧 **Custom Agents** • 🚧 **SLA Support**
+🚧 **Air-Gapped Operation** • 🚧 **SAML/SSO** • 🚧 **Audit Logs** • 🚧 **24/7 Support**
 
 [**📞 Contact Sales**](mailto:enterprise@5dlabs.com) • [**📅 Book Demo**](https://calendly.com/5dlabs/demo)
 
@@ -265,13 +252,13 @@ Join us in building the future of AI-powered development!
 
 <div align="center">
 
-### **🌍 Trusted by Teams Worldwide**
+### **🌍 Open Source Community**
 
-*From startups to Fortune 500s, teams trust 5D Labs to accelerate their development*
+*Join thousands of developers building the future of AI-powered development*
 
 <br/>
 
-**🏢 TechCorp** • **🚀 StartupCo** • **🏦 FinanceInc** • **🏥 HealthTech** • **🎮 GameStudio**
+**⭐ Star on GitHub** • **🍴 Fork & Contribute** • **💬 Join Discord** • **📖 Read Docs** • **🐛 Report Issues**
 
 <br/>
 
