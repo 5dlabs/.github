@@ -277,7 +277,7 @@ Cleo reviews, Tess tests, Cipher secures
 
 ### **The Problem** 😔
 
-**Infrastructure teams face AI platform dependency:**
+**Engineering teams face AI platform dependency:**
 
 - 📈 **Unexpected price increases** & rate limits from AI platforms
 - 🔒 **Locked into AI platform pricing** - no direct provider access
