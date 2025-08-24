@@ -269,6 +269,11 @@ Cleo reviews, Tess tests, Cipher secures
 - 🔄 **CLI flexibility** - adapt to new tools without process changes
 - ⚡ **Fast-moving AI landscape** - stay current without core disruption
 
+**📋 Context Engineering vs. Vibe Coding:**
+- 📝 **Document-level work** - all discussion happens in structured docs
+- 🚫 **No prompt loops** - avoid maddening back-and-forth with agents
+- 🎯 **Proactive context** - comprehensive upfront planning, not reactive coding
+
 </td>
 </tr>
 </table>
@@ -300,6 +305,7 @@ Cleo reviews, Tess tests, Cipher secures
 | **Pricing** | 📈 Platform dependent | 💰 Direct relationships |
 | **CLI Support** | 🚫 Platform-specific | ✅ Universal integration |
 | **Cost Control** | 🔒 Locked rates | 📊 Real-time comparison |
+| **Development Style** | 💬 Vibe coding loops | 📋 Context engineering |
 | **Target** | 👤 Individual devs | 🏢 Infrastructure teams |
 | **Flexibility** | 🔗 Through platform | 🚀 Direct access |
 | **Experimentation** | 🚫 Limited to platform | 🧪 Rapid model/CLI testing |
