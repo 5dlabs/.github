@@ -14,7 +14,7 @@
 <br/>
 
 ### **💎 Enterprise AI Development Platform - CLI & Model Agnostic 💎**
-*Break free from vendor lock-in. Optimize costs. Scale infrastructure.*
+*Break free from AI platform lock-in. Optimize costs. Scale infrastructure.*
 
 </div>
 
@@ -277,13 +277,13 @@ Cleo reviews, Tess tests, Cipher secures
 
 ### **The Problem** 😔
 
-**Infrastructure teams face platform dependency:**
+**Infrastructure teams face AI platform dependency:**
 
-- 📈 **Unexpected price increases** & rate limits
-- 🔒 **Locked into platform pricing**
-- 🚫 **No CLI flexibility** across environments  
-- 📊 **Zero cost optimization** options
-- 🏢 **Enterprise budgets** at risk
+- 📈 **Unexpected price increases** & rate limits from AI platforms
+- 🔒 **Locked into AI platform pricing** - no direct provider access
+- 🚫 **No CLI flexibility** - stuck with platform-specific tools  
+- 📊 **Zero cost optimization** - can't compare AI providers
+- 🏢 **Enterprise budgets** subject to platform policy changes
 - 💬 **Constant prompt loops** - inefficient back-and-forth with agents
 - 🗑️ **AI slop** - low-quality, hard-to-maintain generated code
 
@@ -292,13 +292,13 @@ Cleo reviews, Tess tests, Cipher secures
 
 ### **Our Solution** 🎉
 
-**Direct provider access with enterprise orchestration:**
+**Direct AI provider access with enterprise orchestration:**
 
-- 🔄 **Any CLI, any model** - complete flexibility
-- 💰 **Direct provider relationships**
-- ⚖️ **Real-time cost optimization**
-- 🛠️ **Infrastructure-grade** reliability
-- 🚀 **Price stability** - policy independent
+- 🔄 **Any CLI, any AI model** - complete flexibility
+- 💰 **Direct AI provider relationships** - bypass platform middlemen
+- ⚖️ **Real-time cost optimization** across AI providers
+- 🛠️ **Infrastructure-grade** reliability & scaling
+- 🚀 **Price stability** - independent of platform policy changes
 
 **🧪 Rapid AI Experimentation:**
 - 🆕 **Easy model testing** - experiment with new models as they launch
@@ -342,17 +342,17 @@ Cleo reviews, Tess tests, Cipher secures
 
 ### **Why 5D Labs vs. The Competition?**
 
-| Feature | **Cursor/GitHub** | **5D Labs** |
+| Feature | **AI Platforms** | **5D Labs** |
 |---------|:-----------------:|:-----------:|
-| **Pricing** | 📈 Platform dependent | 💰 Direct relationships |
+| **AI Pricing** | 📈 Platform dependent | 💰 Direct AI provider access |
 | **CLI Support** | 🚫 Platform-specific | ✅ Universal integration |
-| **Cost Control** | 🔒 Locked rates | 📊 Real-time comparison |
+| **Cost Control** | 🔒 Locked AI rates | 📊 Real-time AI provider comparison |
 | **Development Style** | 💬 Vibe coding loops | 📋 Context engineering |
 | **Code Quality** | 🗑️ AI slop risk | ✅ Enterprise QA process |
 | **Target** | 👤 Individual devs | 🏢 Infrastructure teams |
-| **Flexibility** | 🔗 Through platform | 🚀 Direct access |
-| **Experimentation** | 🚫 Limited to platform | 🧪 Rapid model/CLI testing |
-| **Rate Limits** | ❓ Platform limits | 📊 Provider-specific |
+| **AI Flexibility** | 🔗 Through platform only | 🚀 Direct provider access |
+| **Experimentation** | 🚫 Limited to platform models | 🧪 Rapid model/CLI testing |
+| **Rate Limits** | ❓ Platform AI limits | 📊 Provider-specific limits |
 
 ### **🎯 Perfect For:**
 **DevOps Engineers** • **Platform Teams** • **Engineering Managers** • **CTOs** • **Infrastructure Architects**
