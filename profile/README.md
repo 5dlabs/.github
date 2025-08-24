@@ -193,9 +193,43 @@ Cleo reviews, Tess tests, Cipher secures
 
 ---
 
-## **🔮 Coming Soon: Build Your Own AI Agents**
+## **🔮 Coming Soon: Advanced Agent Features**
 
 <div align="center">
+
+### **🌐 Remote Agent Access & Automated Development**
+
+**Work from anywhere and automate your development pipeline**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### **📱 Remote Agent Control**
+
+- **Work from anywhere** - Access your agents remotely via MCP
+- **Always available** - Agents work even when you're offline  
+- **Secure access** - Enterprise-grade remote connectivity
+- **Mobile ready** - Control agents from any device
+
+</td>
+<td align="center" width="50%">
+
+### **🤖 GitHub Issue Automation**
+
+- **Feature requests via issues** - Just create a GitHub issue
+- **Automated development** - Agents implement features automatically
+- **Zero manual process** - From issue to deployment, fully automated
+- **Continuous delivery** - New features ship without human intervention
+
+</td>
+</tr>
+</table>
+
+### **🚀 Business Impact:**
+**Reduce development cycle time by 90% • Work from anywhere • Scale development without hiring**
+
+---
 
 ### **🛠️ Custom Agent Creation Platform**
 
