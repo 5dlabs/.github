@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/5dlabs-logo-dark.svg" alt="5D Labs Logo" width="400px">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/5dlabs-logo-dark.svg?v=2" alt="5D Labs Logo" width="400px">
 
 ## **AI Agent Infrastructure**
 
