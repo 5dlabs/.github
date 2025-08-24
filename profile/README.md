@@ -393,7 +393,7 @@ curl -sSL https://demo.5dlabs.com | bash
 
 | Core Platform | AI Engine | GitOps & Events | Integration |
 |:---:|:---:|:---:|:---:|
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Multi-AI](https://img.shields.io/badge/Multi_AI-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white) | ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Multi-AI](https://img.shields.io/badge/Multi_AI-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white) | <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/argo-banner.webp" alt="Argo" height="28"> | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Fast & Reliable** | **State-of-the-art** | **GitOps Deployment** | **Native PRs** |
 
 **Built with:** 🦀 Rust • 🔄 Argo CD • ⚡ Argo Events • 🛠️ Argo Workflows • 📱 GitHub Apps • 🔗 MCP Protocol • ⎈ Helm Charts • 📊 Prometheus Metrics
