@@ -325,7 +325,9 @@ Cleo reviews, Tess tests, Cipher secures
 |-----------|------------|----------|
 | **Core Platform** | Rust + Kubernetes | High-performance agent orchestration |
 | **AI Engine** | Multi-Provider | OpenAI, Anthropic, Google, Mistral, xAI, Local Models & more |
-| **Task Management** | Custom CRDs | Workflow orchestration and state management |
+| **GitOps Deployment** | Argo CD | Declarative continuous delivery |
+| **Event Processing** | Argo Events | Event-driven workflow automation |
+| **Task Management** | Argo Workflows + CRDs | Workflow orchestration and state management |
 | **Integration** | GitHub Apps | Native repository and PR management |
 | **Monitoring** | Prometheus + Grafana | Real-time observability and metrics |
 
@@ -389,12 +391,12 @@ curl -sSL https://demo.5dlabs.com | bash
 
 <div align="center">
 
-| Core Platform | AI Engine | Orchestration | Integration |
+| Core Platform | AI Engine | GitOps & Events | Integration |
 |:---:|:---:|:---:|:---:|
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Multi-AI](https://img.shields.io/badge/Multi_AI-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **Fast & Reliable** | **State-of-the-art** | **Infinitely Scalable** | **Native PRs** |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Multi-AI](https://img.shields.io/badge/Multi_AI-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white) | ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Fast & Reliable** | **State-of-the-art** | **GitOps Deployment** | **Native PRs** |
 
-**Also featuring:** Argo Workflows • GitHub Apps • MCP Protocol • Helm Charts • Prometheus Metrics
+**Built with:** 🦀 Rust • 🔄 Argo CD • ⚡ Argo Events • 🛠️ Argo Workflows • 📱 GitHub Apps • 🔗 MCP Protocol • ⎈ Helm Charts • 📊 Prometheus Metrics
 
 </div>
 
