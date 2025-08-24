@@ -39,10 +39,9 @@
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/morgan-avatar.png" width="180" height="180" alt="Morgan Avatar">
 </div>
 
-✍️ **Personality:** Articulate, organized, loves clarity  
+✍️ **Personality:** Articulate & organized  
 📖 **Superpower:** Explains complex things simply  
-💬 **Motto:** *"Knowledge shared is knowledge squared!"*  
-⭐ **Magic:** Makes technical docs feel like stories
+💬 **Motto:** *"Knowledge shared is knowledge squared!"*
 
 </td>
 <td align="center" width="33%">
@@ -54,10 +53,9 @@
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/rex-avatar.png" width="180" height="180" alt="Rex Avatar">
 </div>
 
-🦀 **Personality:** Hardcore backend engineer, memory safety obsessed  
-⚡ **Superpower:** Lightning-fast Rust backend implementation  
-💬 **Motto:** *"Zero-cost abstractions, maximum performance!"*  
-🎯 **Magic:** Writes blazing-fast, memory-safe Rust at 500+ lines/hour
+🦀 **Personality:** Hardcore backend engineer  
+⚡ **Superpower:** Lightning-fast Rust implementation  
+💬 **Motto:** *"Zero-cost abstractions, max performance!"*
 
 </td>
 <td align="center" width="33%">
@@ -69,10 +67,9 @@
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/blaze-avatar.png" width="180" height="180" alt="Blaze Avatar">
 </div>
 
-🎨 **Personality:** Creative, detail-oriented, UX obsessed  
-✨ **Superpower:** Beautiful, responsive user interfaces  
-💬 **Motto:** *"Great UX makes complex simple!"*  
-🎯 **Magic:** Turns wireframes into pixel-perfect experiences
+🎨 **Personality:** Creative & UX obsessed  
+✨ **Superpower:** Beautiful, responsive interfaces  
+💬 **Motto:** *"Great UX makes complex simple!"*
 
 </td>
 </tr>
@@ -86,10 +83,9 @@
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cleo-avatar.png" width="180" height="180" alt="Cleo Avatar">
 </div>
 
-🎨 **Personality:** Meticulous, wise, never accepts "good enough"  
-🔍 **Superpower:** Spots improvement opportunities instantly  
-💬 **Motto:** *"Excellence isn't negotiable!"*  
-🎉 **Fun Fact:** Has never met code she couldn't improve
+🎨 **Personality:** Meticulous & wise  
+🔍 **Superpower:** Spots improvements instantly  
+💬 **Motto:** *"Excellence isn't negotiable!"*
 
 </td>
 <td align="center" width="33%">
@@ -101,10 +97,9 @@
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/tess-avatar.png" width="180" height="180" alt="Tess Avatar">
 </div>
 
-🕵️ **Personality:** Curious, thorough, loves breaking things safely  
+🕵️ **Personality:** Curious & thorough  
 🎪 **Superpower:** Finds edge cases others miss  
-💬 **Motto:** *"If it can break, I'll find it first!"*  
-🏆 **Legend:** Once discovered 47 edge cases in one function
+💬 **Motto:** *"If it can break, I'll find it first!"*
 
 </td>
 <td align="center" width="33%">
@@ -116,10 +111,9 @@
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cipher-avatar.png" width="180" height="180" alt="Cipher Avatar">
 </div>
 
-🛡️ **Personality:** Vigilant, protective, thinks like a white-hat hacker  
-🔒 **Superpower:** Spots vulnerabilities before they happen  
-💬 **Motto:** *"Trust, but verify everything twice!"*  
-🚨 **Dedication:** Scans every dependency, every commit, every line
+🛡️ **Personality:** Vigilant & protective  
+🔒 **Superpower:** Spots vulnerabilities early  
+💬 **Motto:** *"Trust, but verify everything twice!"*
 
 </td>
 </tr>
@@ -249,26 +243,26 @@ Cleo reviews, Tess tests, Cipher secures
 
 ### **The Problem** 😔
 
-**Infrastructure teams face platform dependency issues:**
+**Infrastructure teams face platform dependency:**
 
-- 📈 **Unexpected price increases** and new rate limits from platforms
-- 🔒 **Locked into platform pricing** - no direct provider relationships
-- 🚫 **No CLI flexibility** across development environments  
-- 📊 **Zero cost optimization** - can't compare or switch providers
-- 🏢 **Enterprise budgets** subject to platform policy changes
+- 📈 **Unexpected price increases** & rate limits
+- 🔒 **Locked into platform pricing**
+- 🚫 **No CLI flexibility** across environments  
+- 📊 **Zero cost optimization** options
+- 🏢 **Enterprise budgets** at risk
 
 </td>
 <td width="50%">
 
 ### **Our Solution** 🎉
 
-**Direct provider access with enterprise-grade orchestration:**
+**Direct provider access with enterprise orchestration:**
 
 - 🔄 **Any CLI, any model** - complete flexibility
-- 💰 **Direct provider relationships** - avoid platform dependency
-- ⚖️ **Real-time cost optimization** & provider switching
-- 🛠️ **Infrastructure-grade** reliability & scaling
-- 🚀 **Price stability** - not subject to platform policy changes
+- 💰 **Direct provider relationships**
+- ⚖️ **Real-time cost optimization**
+- 🛠️ **Infrastructure-grade** reliability
+- 🚀 **Price stability** - policy independent
 
 </td>
 </tr>
@@ -282,8 +276,8 @@ Cleo reviews, Tess tests, Cipher secures
 
 | Project | Description | Stats | Stack |
 |---------|-------------|-------|-------|
-| [**CTO**](https://github.com/5dlabs/cto)<br/>*Cognitive Task Orchestrator* | The platform where AI agents<br/>ship production code | ![Stars](https://img.shields.io/github/stars/5dlabs/cto?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/cto?style=flat-square&logo=github) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| [**Toolman**](https://github.com/5dlabs/toolman)<br/>*Tool Orchestration* | Unified AI tool management<br/>and orchestration framework | ![Stars](https://img.shields.io/github/stars/5dlabs/toolman?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/toolman?style=flat-square&logo=github) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![MCP](https://img.shields.io/badge/MCP-4B0082?style=flat-square) |
+| [**CTO**](https://github.com/5dlabs/cto)<br/>*Cognitive Task Orchestrator* | AI agents ship<br/>production code | ![Stars](https://img.shields.io/github/stars/5dlabs/cto?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/cto?style=flat-square&logo=github) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| [**Toolman**](https://github.com/5dlabs/toolman)<br/>*Tool Orchestration* | Unified AI tool<br/>management framework | ![Stars](https://img.shields.io/github/stars/5dlabs/toolman?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/5dlabs/toolman?style=flat-square&logo=github) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust) ![MCP](https://img.shields.io/badge/MCP-4B0082?style=flat-square) |
 
 </div>
 
@@ -297,12 +291,12 @@ Cleo reviews, Tess tests, Cipher secures
 
 | Feature | **Cursor/GitHub** | **5D Labs** |
 |---------|:-----------------:|:-----------:|
-| **Pricing Control** | 📈 Subject to platform price changes | 💰 Direct provider relationships |
-| **CLI Support** | 🚫 Platform-specific only | ✅ Universal CLI integration |
-| **Cost Optimization** | 🔒 Locked into platform rates | 📊 Real-time provider comparison |
-| **Target User** | 👤 Individual developers | 🏢 Infrastructure teams enabling organizations |
-| **Provider Flexibility** | 🔗 Must use through platform | 🚀 Direct provider access |
-| **Rate Limit Risk** | ❓ Subject to platform limits | 📊 Provider-specific limits only |
+| **Pricing** | 📈 Platform dependent | 💰 Direct relationships |
+| **CLI Support** | 🚫 Platform-specific | ✅ Universal integration |
+| **Cost Control** | 🔒 Locked rates | 📊 Real-time comparison |
+| **Target** | 👤 Individual devs | 🏢 Infrastructure teams |
+| **Flexibility** | 🔗 Through platform | 🚀 Direct access |
+| **Rate Limits** | ❓ Platform limits | 📊 Provider-specific |
 
 ### **🎯 Perfect For:**
 **DevOps Engineers** • **Platform Teams** • **Engineering Managers** • **CTOs** • **Infrastructure Architects**
@@ -418,7 +412,7 @@ curl -sSL https://cloud.5dlabs.com/signup | bash
 
 ### **Option 2: Self-Hosted** 🏠
 ```bash
-# Install on your Kubernetes cluster
+# Install on your K8s cluster
 helm repo add 5dlabs https://5dlabs.github.io/cto
 helm install agent-platform 5dlabs/agent-platform
 ```
@@ -439,7 +433,7 @@ curl -sSL https://demo.5dlabs.com | bash
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| [**⭐ Star**](https://github.com/5dlabs/cto)<br/>Support the project | [**🍴 Fork**](https://github.com/5dlabs/cto/fork)<br/>Build with us | [**💬 Discord**](https://discord.gg/5dlabs)<br/>Join community | [**🐦 Twitter**](https://twitter.com/5dlabs)<br/>Get updates |
+| [**⭐ Star**](https://github.com/5dlabs/cto)<br/>Support project | [**🍴 Fork**](https://github.com/5dlabs/cto/fork)<br/>Build with us | [**💬 Discord**](https://discord.gg/5dlabs)<br/>Join community | [**🐦 Twitter**](https://twitter.com/5dlabs)<br/>Get updates |
 | [**📺 YouTube**](https://youtube.com/5dlabs)<br/>Watch tutorials | [**📖 Docs**](https://docs.5dlabs.com)<br/>Learn more | [**🐛 Issues**](https://github.com/5dlabs/cto/issues)<br/>Report bugs | [**💡 Discuss**](https://github.com/orgs/5dlabs/discussions)<br/>Share ideas |
 
 </div>
