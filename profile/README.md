@@ -39,9 +39,9 @@
 <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/morgan-avatar.png" width="180" height="180" alt="Morgan Avatar">
 </div>
 
-✍️ **Personality:** Articulate & organized  
-📖 **Superpower:** Explains complex things simply  
-💬 **Motto:** *"Knowledge shared is knowledge squared!"*
+**Personality:** Articulate & organized  
+**Superpower:** Explains complex things simply  
+**Motto:** *"Knowledge shared is knowledge squared!"*
 
 </td>
 <td align="center" width="33%">
@@ -452,7 +452,7 @@ curl -sSL https://demo.5dlabs.com | bash
 | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Multi-AI](https://img.shields.io/badge/Multi_AI-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white) | <img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/argo-banner-cropped.jpg" alt="Argo" height="28"> | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Fast & Reliable** | **State-of-the-art** | **GitOps Deployment** | **Native PRs** |
 
-**Built with:** 🦀 Rust • 🔄 Argo CD • ⚡ Argo Events • 🛠️ Argo Workflows • 📱 GitHub Apps • 🔗 MCP Protocol • ⎈ Helm Charts • 📊 Prometheus Metrics
+**Built with:** 🦀 Rust  🔄 Argo CD  ⚡ Argo Events  🛠️ Argo Workflows  📱 GitHub Apps  🔗 MCP Protocol  ⎈ Helm Charts  📊 Prometheus Metrics
 
 </div>
 
