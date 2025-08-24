@@ -284,6 +284,7 @@ Cleo reviews, Tess tests, Cipher secures
 - 🚫 **No CLI flexibility** across environments  
 - 📊 **Zero cost optimization** options
 - 🏢 **Enterprise budgets** at risk
+- 💬 **Constant prompt loops** - inefficient back-and-forth with agents
 
 </td>
 <td width="50%">
@@ -307,6 +308,7 @@ Cleo reviews, Tess tests, Cipher secures
 - 📝 **Document-level work** - all discussion happens in structured docs
 - 🚫 **No prompt loops** - avoid maddening back-and-forth with agents
 - 🎯 **Proactive context** - comprehensive upfront planning, not reactive coding
+- 🤖 **Autonomous execution** - agents work independently via GitHub issues
 
 </td>
 </tr>
