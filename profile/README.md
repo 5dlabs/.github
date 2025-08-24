@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/5dlabs?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=0969da)](https://github.com/5dlabs)
 [![Discord](https://img.shields.io/discord/5dlabs?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2&label=Join%20Community)](https://discord.gg/5dlabs)
 [![Twitter Follow](https://img.shields.io/twitter/follow/5dlabs?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000)](https://twitter.com/5dlabs)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/5dlabs?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000&label=Watch%20Demos)](https://youtube.com/5dlabs)
+[![YouTube](https://img.shields.io/badge/YouTube-5D_Labs-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Watch%20Demos)](https://www.youtube.com/@5DLabs)
 
 <br/>
 
@@ -449,7 +449,7 @@ curl -sSL https://demo.5dlabs.com | bash
 | | | | |
 |:---:|:---:|:---:|:---:|
 | [**⭐ Star**](https://github.com/5dlabs/cto)<br/>Support project | [**🍴 Fork**](https://github.com/5dlabs/cto/fork)<br/>Build with us | [**💬 Discord**](https://discord.gg/5dlabs)<br/>Join community | [**🐦 Twitter**](https://twitter.com/5dlabs)<br/>Get updates |
-| [**📺 YouTube**](https://youtube.com/5dlabs)<br/>Watch tutorials | [**📖 Docs**](https://docs.5dlabs.com)<br/>Learn more | [**🐛 Issues**](https://github.com/5dlabs/cto/issues)<br/>Report bugs | [**💡 Discuss**](https://github.com/orgs/5dlabs/discussions)<br/>Share ideas |
+| [**📺 YouTube**](https://www.youtube.com/@5DLabs)<br/>Watch tutorials | [**📖 Docs**](https://docs.5dlabs.com)<br/>Learn more | [**🐛 Issues**](https://github.com/5dlabs/cto/issues)<br/>Report bugs | [**💡 Discuss**](https://github.com/orgs/5dlabs/discussions)<br/>Share ideas |
 
 </div>
 
