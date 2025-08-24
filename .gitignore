@@ -7,8 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
-# Profile directory (marketing materials)
-profile/
+# Profile directory .DS_Store files (keep the directory itself)
+profile/.DS_Store
+profile/**/.DS_Store
 
 # Backup files
 *.backup
