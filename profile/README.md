@@ -36,7 +36,7 @@
 #### *The Knowledge Architect*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/morgan-avatar.png" width="150" height="150" alt="Morgan Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/morgan-avatar.png" width="180" height="180" alt="Morgan Avatar">
 </div>
 
 ✍️ **Personality:** Articulate, organized, loves clarity  
@@ -51,7 +51,7 @@
 #### *The Backend Powerhouse*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/rex-avatar.png" width="150" height="150" alt="Rex Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/rex-avatar.png" width="180" height="180" alt="Rex Avatar">
 </div>
 
 🦀 **Personality:** Hardcore backend engineer, memory safety obsessed  
@@ -66,7 +66,7 @@
 #### *The Interface Maestro*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/blaze-avatar.png" width="150" height="150" alt="Blaze Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/blaze-avatar.png" width="180" height="180" alt="Blaze Avatar">
 </div>
 
 🎨 **Personality:** Creative, detail-oriented, UX obsessed  
@@ -83,7 +83,7 @@
 #### *The Quality Guardian*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cleo-avatar.png" width="150" height="150" alt="Cleo Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cleo-avatar.png" width="180" height="180" alt="Cleo Avatar">
 </div>
 
 🎨 **Personality:** Meticulous, wise, never accepts "good enough"  
@@ -98,7 +98,7 @@
 #### *The Testing Genius*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/tess-avatar.png" width="150" height="150" alt="Tess Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/tess-avatar.png" width="180" height="180" alt="Tess Avatar">
 </div>
 
 🕵️ **Personality:** Curious, thorough, loves breaking things safely  
@@ -113,7 +113,7 @@
 #### *The Security Sentinel*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cipher-avatar.png" width="150" height="150" alt="Cipher Avatar">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/cipher-avatar.png" width="180" height="180" alt="Cipher Avatar">
 </div>
 
 🛡️ **Personality:** Vigilant, protective, thinks like a white-hat hacker  
