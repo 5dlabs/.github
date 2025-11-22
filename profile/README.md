@@ -118,7 +118,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### **Atlas**
 #### *The Integration Master*
@@ -132,7 +132,7 @@
 💬 **Motto:** *"Every branch finds its way home!"*
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### **Bolt**
 #### *The Deployment Specialist*
@@ -144,6 +144,11 @@
 ⚡ **Personality:** Fast & action-oriented  
 🚀 **Superpower:** Lightning-speed deployments  
 💬 **Motto:** *"Ship it fast, ship it right!"*
+
+</td>
+<td align="center" width="33%">
+
+&nbsp;
 
 </td>
 </tr>
