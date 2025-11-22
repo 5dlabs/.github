@@ -24,7 +24,7 @@
 
 ## **Meet Your AI Development Dream Team**
 
-*Five specialized agents with distinct personalities working together 24/7*
+*Nine specialized agents with distinct personalities working together 24/7*
 
 <div align="center">
 
@@ -117,6 +117,50 @@
 
 </td>
 </tr>
+<tr>
+<td align="center" width="33%">
+
+### **Stitch**
+#### *The CI First Responder*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/stitch-avatar.png" width="180" height="180" alt="Stitch Avatar">
+</div>
+
+🔧 **Personality:** Surgical & focused  
+🎯 **Superpower:** Fixes CI failures fast  
+💬 **Motto:** *"Red to green, minimal changes!"*
+
+</td>
+<td align="center" width="33%">
+
+### **Atlas**
+#### *The Integration Master*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/atlas-avatar.png" width="180" height="180" alt="Atlas Avatar">
+</div>
+
+🔗 **Personality:** Systematic & reliable  
+🌉 **Superpower:** Resolves conflicts seamlessly  
+💬 **Motto:** *"Every branch finds its way home!"*
+
+</td>
+<td align="center" width="33%">
+
+### **Bolt**
+#### *The Deployment Specialist*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/bolt-avatar.png" width="180" height="180" alt="Bolt Avatar">
+</div>
+
+⚡ **Personality:** Fast & action-oriented  
+🚀 **Superpower:** Lightning-speed deployments  
+💬 **Motto:** *"Ship it fast, ship it right!"*
+
+</td>
+</tr>
 </table>
 
 ---
@@ -150,8 +194,8 @@ requirements & architecture
 <td align="center" width="33%">
 
 **🛡️ Phase 3**  
-**Cleo, Tess & Cipher** ensure  
-quality, testing & security
+**Cleo, Stitch, Tess & Cipher** ensure  
+quality, CI reliability & security
 
 </td>
 </tr>
@@ -177,7 +221,7 @@ Rex & Blaze work together seamlessly
 </td>
 <td align="center" width="50%">
 **🛡️ Quality Always**<br/>
-Cleo reviews, Tess tests, Cipher secures
+Cleo reviews, Stitch unblocks CI, Tess tests, Cipher secures
 </td>
 </tr>
 </table>
