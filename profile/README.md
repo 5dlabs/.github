@@ -88,21 +88,14 @@
 💬 **Motto:** *"Excellence isn't negotiable!"*
 
 </td>
-<td align="center" width="33%">
+</tr>
+</table>
 
-### **Tess**
-#### *The Testing Genius*
+### **🛡️ Quality Assurance Squad**
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/tess-avatar.png" width="180" height="180" alt="Tess Avatar">
-</div>
-
-🕵️ **Personality:** Curious & thorough  
-🎪 **Superpower:** Finds edge cases others miss  
-💬 **Motto:** *"If it can break, I'll find it first!"*
-
-</td>
-<td align="center" width="33%">
+<table>
+<tr>
+<td align="center" width="50%">
 
 ### **Cipher**
 #### *The Security Sentinel*
@@ -116,9 +109,28 @@
 💬 **Motto:** *"Trust, but verify everything twice!"*
 
 </td>
+<td align="center" width="50%">
+
+### **Tess**
+#### *The Testing Genius*
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/tess-avatar.png" width="180" height="180" alt="Tess Avatar">
+</div>
+
+🕵️ **Personality:** Curious & thorough  
+🎪 **Superpower:** Finds edge cases others miss  
+💬 **Motto:** *"If it can break, I'll find it first!"*
+
+</td>
 </tr>
+</table>
+
+### **🚀 Operations Squad**
+
+<table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### **Atlas**
 #### *The Integration Master*
@@ -132,7 +144,7 @@
 💬 **Motto:** *"Every branch finds its way home!"*
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### **Bolt**
 #### *The Deployment Specialist*
@@ -144,11 +156,6 @@
 ⚡ **Personality:** Fast & action-oriented  
 🚀 **Superpower:** Lightning-speed deployments  
 💬 **Motto:** *"Ship it fast, ship it right!"*
-
-</td>
-<td align="center" width="33%">
-
-&nbsp;
 
 </td>
 </tr>
