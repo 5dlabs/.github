@@ -24,7 +24,7 @@
 
 ## **Meet Your AI Development Dream Team**
 
-*Nine specialized agents with distinct personalities working together 24/7*
+*Eight specialized agents with distinct personalities working together 24/7*
 
 <div align="center">
 
@@ -118,21 +118,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
-
-### **Stitch**
-#### *The CI First Responder*
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/5dlabs/.github/main/profile/assets/stitch-avatar.png" width="180" height="180" alt="Stitch Avatar">
-</div>
-
-🔧 **Personality:** Surgical & focused  
-🎯 **Superpower:** Fixes CI failures fast  
-💬 **Motto:** *"Red to green, minimal changes!"*
-
-</td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### **Atlas**
 #### *The Integration Master*
@@ -146,7 +132,7 @@
 💬 **Motto:** *"Every branch finds its way home!"*
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### **Bolt**
 #### *The Deployment Specialist*
@@ -194,8 +180,8 @@ requirements & architecture
 <td align="center" width="33%">
 
 **🛡️ Phase 3**  
-**Cleo, Stitch, Tess & Cipher** ensure  
-quality, CI reliability & security
+**Cleo, Tess & Cipher** ensure  
+quality, testing & security
 
 </td>
 </tr>
@@ -221,7 +207,7 @@ Rex & Blaze work together seamlessly
 </td>
 <td align="center" width="50%">
 **🛡️ Quality Always**<br/>
-Cleo reviews, Stitch unblocks CI, Tess tests, Cipher secures
+Cleo reviews, Tess tests, Cipher secures
 </td>
 </tr>
 </table>
